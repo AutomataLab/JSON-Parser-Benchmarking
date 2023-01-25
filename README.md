@@ -26,3 +26,6 @@ Compile, run and profile the main_rapidjson.cpp application.
 $ g++ -Iinclude -O3 main_rapidjson.cpp -o main_rapidjson
 $ ./main_rapidjson
 ```
+
+## Results
+<img width="724" alt="image" src="https://user-images.githubusercontent.com/55717003/214582699-030afca1-c811-45d5-99bb-517ea917d3e4.png">
